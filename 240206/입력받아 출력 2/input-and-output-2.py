@@ -1,2 +1,2 @@
-a,b=tuple(map(int, input().split('-')))
+a,b=tuple(map(int,input().split('-')))
 print(f'{a}{b}')
