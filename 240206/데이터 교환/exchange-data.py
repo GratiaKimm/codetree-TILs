@@ -1,0 +1,9 @@
+a=5
+b=6
+c=7
+a,b=b,a
+c,b=b,c
+c,a=a,c
+print(a)
+print(b)
+print(c)
