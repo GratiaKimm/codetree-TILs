@@ -1,5 +1,5 @@
 a= int(input())
 if a>=5:
-    print(a*a)
+    print(a**2)
 else:
     print('tiny')
